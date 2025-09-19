@@ -1,1 +1,5 @@
-Hi, This is my first git project.
+Hi, This is my first git project. 
+1. I have created the Git hub account. 
+2. Cloned it in the CMD 
+3. Created another new Branch called "testing"
+4. Making changes to the files in the "testing Branch". 
